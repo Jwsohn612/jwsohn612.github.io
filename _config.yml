@@ -1,15 +1,15 @@
-title:              Stat
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              Data Artist
+email:              jwsohn612@gmail.com
+description:        to disclose behind story of data 
 author:             Jinwon Sohn
 baseurl:            "/"
 url:                "https://jwsohn612.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+# twitter_username:   
+github_username:    jwsohn612
+#facebook_username:  StartBootstrap
+#instagram_username:  
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
